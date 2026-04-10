@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/mohamedfouad00&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/mohamedfouad00" /> </p>
 
-- 🌱 I'm currently learning **Data Engineering**
+- 🌱 I'm currently learning **Analytics Engineering**
 
 - 👯 I'm looking to collaborate on **Data analytics projects**
 
