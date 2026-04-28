@@ -125,7 +125,7 @@ I'm actively looking to collaborate on:
 
 ---
 
-**📄 [View My Full CV](https://drive.google.com/file/d/1GsuKbuuPIaG9q5ZgaCvw8d0Y55bqsQ7u/view?usp=sharing)**
+**📄 [View My Full CV](https://drive.google.com/file/d/1zWMnRbGgxgp0fekfSFP2rVBiVd0VOJq0/view?usp=sharing)**
 
 ---
 
